@@ -1,0 +1,12 @@
+amqp==2.3.2
+billiard==3.5.0.4
+celery==4.2.1
+Django==2.1.2
+djangorestframework==3.8.2
+djangorestframework-jwt==1.11.0
+kombu==4.2.1
+Markdown==3.0.1
+PyJWT==1.6.4
+pytz==2018.5
+redis==2.10.6
+vine==1.1.4
